@@ -3,4 +3,4 @@
 
 
 //--->build in server 
-https://main--sweet-smakager-998ada.netlify.app/
+totorial-web.netlify.app
