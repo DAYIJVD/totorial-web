@@ -3,4 +3,4 @@
 
 
 //--->build in server 
-totorial-web.netlify.app
+https://totorial-web.netlify.app/
